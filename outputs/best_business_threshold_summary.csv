@@ -1,0 +1,14 @@
+Metric,Value
+Best Threshold,0.21
+Targeted Customers,653.0
+True Positives,317.0
+False Positives,336.0
+False Negatives,57.0
+True Negatives,699.0
+Precision,0.48545176110260335
+Recall,0.8475935828877005
+F1 Score,0.617332035053554
+Estimated Retained Customers,63.400000000000006
+Value Saved,31700.000000000004
+Intervention Cost,13060.0
+Net Business Value,18640.000000000004

@@ -1,0 +1,10 @@
+Metric,Value
+Total Customers,7043.0
+Overall Churn Rate (%),26.536987079369588
+Average Predicted Churn Probability (%),26.604354001590778
+High Risk Customers,1194.0
+Critical Risk Customers,1446.0
+High + Critical Customers,2640.0
+High + Critical Customers (%),37.48402669317053
+Average Monthly Charges,64.76169246059918
+Average Customer Tenure,32.37114865824223

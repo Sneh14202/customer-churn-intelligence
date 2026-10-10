@@ -1,0 +1,31 @@
+Feature,DataType,MissingValues,UniqueValues
+SeniorCitizen,int64,0,2
+tenure,int64,0,73
+MonthlyCharges,float64,0,1585
+TotalCharges,float64,0,6531
+gender_Male,int64,0,2
+Partner_Yes,int64,0,2
+Dependents_Yes,int64,0,2
+PhoneService_Yes,int64,0,2
+MultipleLines_No phone service,int64,0,2
+MultipleLines_Yes,int64,0,2
+InternetService_Fiber optic,int64,0,2
+InternetService_No,int64,0,2
+OnlineSecurity_No internet service,int64,0,2
+OnlineSecurity_Yes,int64,0,2
+OnlineBackup_No internet service,int64,0,2
+OnlineBackup_Yes,int64,0,2
+DeviceProtection_No internet service,int64,0,2
+DeviceProtection_Yes,int64,0,2
+TechSupport_No internet service,int64,0,2
+TechSupport_Yes,int64,0,2
+StreamingTV_No internet service,int64,0,2
+StreamingTV_Yes,int64,0,2
+StreamingMovies_No internet service,int64,0,2
+StreamingMovies_Yes,int64,0,2
+Contract_One year,int64,0,2
+Contract_Two year,int64,0,2
+PaperlessBilling_Yes,int64,0,2
+PaymentMethod_Credit card (automatic),int64,0,2
+PaymentMethod_Electronic check,int64,0,2
+PaymentMethod_Mailed check,int64,0,2

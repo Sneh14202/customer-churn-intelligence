@@ -1,0 +1,12 @@
+Category,Result
+Dataset,Telco Customer Churn
+Customers,7043
+Target,Customer Churn
+Final Model,Calibrated Gradient Boosting
+ROC-AUC,0.84586
+PR-AUC,0.673897
+Recall,0.812834
+F1 Score,0.625514
+High + Critical Risk,37.48%
+Explainability,SHAP
+Business Output,Customer-level retention intelligence

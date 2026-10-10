@@ -1,0 +1,10 @@
+Check,Result
+Total Rows,7043
+Total Columns,21
+Missing Values,0
+Duplicate Rows,0
+Unique Customer IDs,7043
+Duplicate Customer IDs,0
+Invalid SeniorCitizen Values,0
+Negative MonthlyCharges,0
+Invalid TotalCharges Values,11

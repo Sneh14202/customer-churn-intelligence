@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.726757
+Precision,0.491446
+Recall,0.84492
+F1 Score,0.621436
+ROC-AUC,0.846147
+PR-AUC,0.662488
+Brier Score,0.135305
+Log Loss,0.414911

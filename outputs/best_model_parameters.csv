@@ -1,0 +1,3 @@
+Model,BestParameters,BestCV_PRAUC
+Logistic Regression,"{'model__solver': 'liblinear', 'model__penalty': 'l1', 'model__C': 1}",0.6614159514809967
+Gradient Boosting,"{'subsample': 1.0, 'n_estimators': 200, 'min_samples_split': 2, 'min_samples_leaf': 5, 'max_depth': 3, 'learning_rate': 0.05}",0.6681844132705379
